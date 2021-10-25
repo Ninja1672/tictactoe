@@ -5,7 +5,7 @@ import { StyleSheet, Text, View } from 'react-native';
 export default function App() {
   return (
     <View style={styles.container}>
-      <Text>This will become Tic Tac Toe!</Text>
+      <Text>This will be Tic Tac Toe!</Text>
       <StatusBar style="auto" />
     </View>
   );
