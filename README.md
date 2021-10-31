@@ -14,7 +14,7 @@ I programmed it in react which is javascript based, the only important library i
 These turn whatever the text or image is into touchable spaces that can perform actions on press.
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
+
 * [React documentation](https://reactjs.org/docs/getting-started.html)
 * [Expo documentation](https://docs.expo.dev/)
 
